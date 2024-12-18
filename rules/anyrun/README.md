@@ -1,4 +1,0 @@
-# YARA
-
-Public YARA rules
-
