@@ -3,7 +3,7 @@ rule Confucius_B
     meta:
         id = "3AaavteplEPTLc29oIVtzm"
         fingerprint = "f7a7224bfdbb79208776c856eb05a59ed75112376d0d3b28776305efc94c0414"
-        version = "1.0"
+        version = "1.1"
         creation_date = "2020-04-01"
         first_imported = "2021-12-30"
         last_modified = "2021-12-30"
